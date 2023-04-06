@@ -20,7 +20,7 @@
 ## 제품(Product)
 ![Untitled-mockup ](https://user-images.githubusercontent.com/109942640/230318630-d6892e84-3652-44ee-b883-0dcd2b070e71.jpg)
 
-## 분류(Categories)
+## 분류(Categories)& 리뷰(Reviews)
 ![Untitled-mockup](https://user-images.githubusercontent.com/109942640/230318914-2218ba10-9d39-4f41-a15e-408101895382.jpg)
 
 ## 블로그(Blog)
